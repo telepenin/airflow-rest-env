@@ -1,7 +1,7 @@
-Rsync + SSH Docker Image
+Rsync + SSH Docker Image including Ansible
 ========================
 
-[![Docker Pulls](https://img.shields.io/docker/pulls/instrumentisto/rsync-ssh.svg)](https://hub.docker.com/r/instrumentisto/rsync-ssh) [![Based on](https://img.shields.io/badge/based%20on-alpine-blue.svg)][12]
+[![Docker Pulls](https://img.shields.io/docker/pulls/bardiir/rsync-ssh-ansible.svg)](https://hub.docker.com/r/bardiir/rsync-ssh-ansible) [![Based on](https://img.shields.io/badge/based%20on-alpine-blue.svg)][12]
 
 
 
