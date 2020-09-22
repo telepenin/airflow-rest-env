@@ -5,6 +5,7 @@ RUN apk update \
  && apk upgrade \
  && apk add --no-cache \
             rsync \
+            sshpass \
             openssh-client \
             ca-certificates \
             ansible \
