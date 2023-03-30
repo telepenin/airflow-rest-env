@@ -7,7 +7,7 @@
 #	make release
 
 
-IMAGE_NAME := instrumentisto/rsync-ssh
+IMAGE_NAME := prefer/ansible-rsync
 VERSION ?= latest
 TAGS ?= latest
 
