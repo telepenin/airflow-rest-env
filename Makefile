@@ -7,7 +7,7 @@
 #	make release
 
 
-IMAGE_NAME := prefer/ansible-rsync
+IMAGE_NAME := prefer/airflow-rest-env
 VERSION ?= latest
 TAGS ?= latest
 
